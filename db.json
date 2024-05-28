@@ -1,0 +1,19 @@
+{
+    "articles": [
+        {
+            "id":"1",
+            "tittle": "judul",
+            "content": "Ini Content"
+        },
+        {
+            "id":"2",
+            "tittle": "judul 2",
+            "content": "Ini Content 2"
+        },
+        {
+            "id":"3",
+            "tittle": "judul 3",
+            "content": "Ini Content 3"
+        }
+    ]
+}
